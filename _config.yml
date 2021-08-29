@@ -5,7 +5,7 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-#baseurl: ''
+baseurl: ''
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
@@ -19,12 +19,10 @@ timezone: Asia/Jerusalem
 
 title: Nir Levy                          # the main title
 
-tagline: My nice Blog   # it will display as the sub-title
+tagline: My Blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A minimalblog.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://nirlevy98.github.io'
