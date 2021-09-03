@@ -19,7 +19,7 @@ timezone: Asia/Jerusalem
 
 title: Nir Levy                          # the main title
 
-tagline: I love Shirly ❤️   # it will display as the sub-title
+tagline: Tech blog   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimalblog.
